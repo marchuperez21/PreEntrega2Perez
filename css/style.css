@@ -71,21 +71,16 @@
 }
 
 .img-size {
-  height: 34rem;
-}
-
-.bg-texto-carousel {
-  background-color: rgba(232, 185, 132, 0.61);
-  border-radius: 2rem;
-  padding: 0.2rem;
+  height: 45rem;
 }
 
 .text-carousel-h3 {
-  color: rgb(104, 64, 64);
+  color: rgba(87, 151, 87, 0.587);
 }
 
 .text-carousel-h6 {
-  color: rgb(72, 72, 72);
+  color: rgb(95, 93, 93);
+  margin-bottom: 25rem;
 }
 
 .size-imgs-inicio {
@@ -120,4 +115,10 @@
 
 .margin-nosotros {
   margin-top: 4rem;
+}
+
+.margin-padding-carousel {
+  padding-left: 0rem !important;
+  padding-right: 0rem !important;
+  margin-top: 6.7rem;
 }
